@@ -4,7 +4,10 @@
     <mirror>
       <id>Nexus</id>
       <name>Nexus Public Mirror</name>
+      <!--
       <url>http://nexus3-user12-nexus.apps.6ac8.openshift.opentlc.com/repository/maven-all-public/</url>
+      -->
+      <url>http://nexus3-marthen-nexus.apps.na311.openshift.opentlc.com/repository/maven-all-public/</url>
       <mirrorOf>*</mirrorOf>
     </mirror>
   </mirrors>
